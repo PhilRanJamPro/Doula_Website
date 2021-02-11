@@ -1,0 +1,79 @@
+#navbar h1 {
+  float: none;
+  text-align: center;}
+
+  #navbar ul ,#navbar ul li {
+    float: none;
+  }
+
+  #navbar ul li a {
+    padding: 5px;
+   border-bottom: solid 1px #fddf99 ;
+  }
+
+  #showcase {
+    background: url('../img/prune\ doula.jpg') no-repeat center center/cover;
+    background-size: 470px 1000px;
+    margin-bottom: -310px;
+    }
+
+    #showcase .showcase-content h1 {
+      font-size: 30px;
+      line-height: 1.2em;
+      opacity: 0.9;
+    }
+    
+    #title {
+      color: #ed595b;
+      padding-left: 10px;
+      text-shadow: none;
+    }
+
+    .container {
+      margin: auto;
+      max-width: 1100px;
+      overflow: auto;
+      padding: 0px;
+    }
+    /* home info */
+    #home-info {
+      height: 530px;
+    }
+
+    #home-info .info-img{
+     display: none;
+    }
+
+    #home-info .info-content { 
+      float: right;
+      width: 100%;
+    }
+
+    /* boxes */
+    .box {
+      float: none;
+      width: 100%;
+    }
+
+    /* about */
+    #about-info .info-right,
+    #about-info .info-left {
+      float: none;
+      width: 100%;
+    }
+
+    #about-info .info-right{
+      margin-top: 30px;
+    }
+
+    .l-heading {
+      text-align: center;
+    }
+    #testimonials {
+      height: 100%;
+      background: url('../img/dakota-corbin-PmNjS6b3XP4-unsplash.jpg') no-repeat center center/cover;
+      padding-top: 100px;
+      background-size: 620px 1067px;
+    }
+
+    
